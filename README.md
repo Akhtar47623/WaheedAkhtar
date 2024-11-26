@@ -25,9 +25,15 @@ I'm a passionate **Laravel Developer** who loves crafting efficient backend syst
 
 ---
 ### 📬 Connect with Me
-- **Email:** waheed47623@gmail.com
-- **LinkedIn:** [Waheed Akhtar](https://linkedin.com/in/waheedakhtar)
-- **FaceBook:** [Waheed Akhtar](https://www.facebook.com/profile.php?id=100026391677226&mibextid=ZbWKwL)
-- **Instagram:** [Waheed Akhtar](https://instagram/waheedakhtar.com)
+- 📧 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waheed@example.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/waheedakhtar)
+- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/waheedakhtar](https://www.facebook.com/profile.php?id=100026391677226&mibextid=ZbWKwL)
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/waheedakhtar)
+
+---
+
+### 🚀 Let's Build Something Amazing Together!
+I'm always open to collaborations and learning opportunities. Feel free to reach out!
+
 
 
