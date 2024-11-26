@@ -1,41 +1,18 @@
-# Hi, I'm Waheed Akhtar! 👋
-I'm a passionate **Laravel Developer** who loves crafting efficient backend systems and delightful user interfaces.
+<h1 align="center">Hi 👋, I'm Waheed Akhtar</h1>
+<h3 align="center">I'm a passionate Laravel Developer who loves crafting efficient backend systems and delightful user interfaces.</h3>
 
----
+- 🔭 I’m currently working on Laravel 10 [Docurious](https://docurious.com/)
 
-### 🛠️ Tech Stack
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![AJAX](https://img.shields.io/badge/ajax-%23FF7800.svg?style=for-the-badge&logoColor=white)
+- 🌱 I’m currently learning **Vue.js**
 
----
-### 📚 What I'm Learning
-- Improving frontend skills with:
-  - **Vue.js** for reactive UI components.
-  - **Tailwind CSS** for modern styling.
-- Exploring DevOps tools:
-  - Docker for containerized development.
-  - GitHub Actions for CI/CD workflows.
-- Enhancing database optimization techniques for high-performance applications.
+- 📫 How to reach me **waheed47623@gmail.com**
 
----
-### 📬 Connect with Me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/waheed akhtar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waheed akhtar" height="30" width="40" /></a>
+<a href="https://fb.com/waheed akhtar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="waheed akhtar" height="30" width="40" /></a>
+<a href="https://instagram.com/waheed akhtar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="waheed akhtar" height="30" width="40" /></a>
+</p>
 
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waheed@example.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/waheedakhtar)
-- [![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waheedakhtar)
-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100026391677226&mibextid=ZbWKwL)
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/waheedakhtar)
-
----
-
-### 🚀 Let's Build Something Amazing Together!
-I'm always open to collaborations and learning opportunities. Feel free to reach out!
-
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
