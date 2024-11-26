@@ -14,3 +14,20 @@ I'm a passionate **Laravel Developer** who loves crafting efficient backend syst
 ![AJAX](https://img.shields.io/badge/ajax-%23FF7800.svg?style=for-the-badge&logoColor=white)
 
 ---
+### 📚 What I'm Learning
+- Improving frontend skills with:
+  - **Vue.js** for reactive UI components.
+  - **Tailwind CSS** for modern styling.
+- Exploring DevOps tools:
+  - Docker for containerized development.
+  - GitHub Actions for CI/CD workflows.
+- Enhancing database optimization techniques for high-performance applications.
+
+---
+### 📬 Connect with Me
+- **Email:** waheed47623@gmail.com
+- **LinkedIn:** [Waheed Akhtar](https://linkedin.com/in/waheedakhtar)
+- **FaceBook:** [Waheed Akhtar](https://facebook/waheedakhtar.com)
+- **Instagram:** [Waheed Akhtar](https://instagram/waheedakhtar.com)
+
+
