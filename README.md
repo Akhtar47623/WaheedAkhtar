@@ -25,9 +25,11 @@ I'm a passionate **Laravel Developer** who loves crafting efficient backend syst
 
 ---
 ### 📬 Connect with Me
-- 📧 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waheed@example.com)
+
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waheed@example.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/waheedakhtar)
-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/waheedakhtar](https://www.facebook.com/profile.php?id=100026391677226&mibextid=ZbWKwL)
+- [![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waheedakhtar)
+- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100026391677226&mibextid=ZbWKwL)
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/waheedakhtar)
 
 ---
