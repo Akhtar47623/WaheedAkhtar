@@ -27,7 +27,7 @@ I'm a passionate **Laravel Developer** who loves crafting efficient backend syst
 ### 📬 Connect with Me
 - **Email:** waheed47623@gmail.com
 - **LinkedIn:** [Waheed Akhtar](https://linkedin.com/in/waheedakhtar)
-- **FaceBook:** [Waheed Akhtar](https://www.facebook.com/profile.php?id=100026391677226)
+- **FaceBook:** [Waheed Akhtar](https://www.facebook.com/profile.php?id=100026391677226&mibextid=ZbWKwL)
 - **Instagram:** [Waheed Akhtar](https://instagram/waheedakhtar.com)
 
 
